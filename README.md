@@ -3,8 +3,6 @@
 
 <h3 align="left">About:</h3>
 
-- 🔭 I’m currently working as **Programmer Analyst Trainee in CTS**
-
 - 🌱 I’m currently learning **Data Science and related tools, Machine Learning Concepts**
 
 - ⚡ Fun fact **I love playing chess**
