@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I love playing chess**
 
+- 👯 I’m looking to collaborate on ...Projects regarding Machine Learning, Deep Learning and NLP
+
 - 📫 Reach me **adikenaveen2139@gmail.com**
 
 
